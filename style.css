@@ -1,0 +1,25 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("25.jpg");
+	background-size: cover;
+	;
+}
+
+#myCanvas{
+border-width:10px;
+border-style: ridge;
+background-color: white;
+
+}
+#color
+{
+	color: black;
+}
+#width_line
+{
+	color: black;
+}
